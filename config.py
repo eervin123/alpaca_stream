@@ -1,3 +1,9 @@
+
+# Enter the following two as environment variables and ignore them here
+APCA_API_KEY_ID=<key_id>
+APCA_API_SECRET_KEY=<secret_key> 
+
+# The following can work within your program you can ignore the two lines above
 APCA_API_BASE_URL="https://api.alpaca.markets" 
 APCA_API_PAPER_URL="https://paper-api/alpaca.markets"
 APCA_API_DATA_URL="https://data.alpaca.markets"
